@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain
+langchain-core
+google-generativeai
+langchain-google-genai
+# Optional: add google-auth if you manage service account ADC directly
+google-auth
